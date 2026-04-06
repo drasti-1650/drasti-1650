@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Drasti 👋
 
-<!--
-**drasti-1650/drasti-1650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
+🤖 Aspiring AI Engineer
+💻 Skilled in Python, OpenCV
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python
+* OpenCV
+* Basics of Machine Learning
+
+---
+
+## 🔥 Current Focus
+
+* Learning AI & Computer Vision
+* Contributing to Open Source
+
+---
+
+## 📌 Projects
+
+* Image Processing (OpenCV)
+* Face Detection (Coming Soon 🚀)
+
+---
+
+## 🎯 Goals
+
+* Contribute to GSSoC
+* Become AI Engineer
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: linkedin.com/in/drasti-thakkar-09641b314
