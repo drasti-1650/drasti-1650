@@ -30,7 +30,6 @@
 
 ## 🎯 Goals
 
-* Contribute to GSSoC
 * Become AI Engineer
 
 ---
