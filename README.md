@@ -11,6 +11,8 @@
 * Python
 * OpenCV
 * Basics of Machine Learning
+* n8n
+* AI Automation
 
 ---
 
@@ -23,8 +25,7 @@
 
 ## 📌 Projects
 
-* Image Processing (OpenCV)
-* Face Detection (Coming Soon 🚀)
+* GEN AI Smart python ide
 
 ---
 
